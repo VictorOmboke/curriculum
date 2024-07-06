@@ -29,3 +29,4 @@ See [license.md](https://github.com/TheOdinProject/curriculum/blob/main/license.
 Created by [Erik Trautman](http://www.github.com/eriktrautman).
 
 This is just a practice message.
+This is another practice message, please ignore.
